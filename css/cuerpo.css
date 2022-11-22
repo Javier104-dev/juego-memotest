@@ -1,0 +1,50 @@
+.cuerpo{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(33.33vw, 1fr)); /*establecemos el ancho de columnas (3), asi las auto llenara, metera todos los cuadros que pongamos en 3 columnas*/
+    background-image: radial-gradient(circle at 50% 50%, #36b3ff 0, #0d5d9f 50%, #00142e 100%);
+}
+
+
+.cuadro{
+    box-sizing: border-box;
+    margin: 1rem;
+    border: 1px solid black;
+}
+
+.interior-cuadro{
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity ease 0.2s;
+}
+
+
+.rojo{
+   background-color:  red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.violeta{
+    background-color: purple;
+}
+
+.naranja{
+    background-color: orange;
+}
+
+.victoria{
+    display: none;
+}
