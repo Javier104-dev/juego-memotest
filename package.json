@@ -1,9 +1,19 @@
 {
-  "devDependencies": {
-    "cypress": "^11.2.0"
-  },
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "Juego memotest para r/argentina programa",
+  "main": "index.html",
   "scripts": {
-    "open-cypress": "cypress open"
-  }
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javier104-dev/juego-memotest.git"
+  },
+  "author": "Javier Villca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javier104-dev/juego-memotest/issues"
+  },
+  "homepage": "https://github.com/Javier104-dev/juego-memotest#readme"
 }
-
