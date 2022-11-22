@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Javier104-dev/juego-memotest/issues"
   },
-  "homepage": "https://github.com/Javier104-dev/juego-memotest#readme"
+  "homepage": "https://github.com/Javier104-dev/juego-memotest#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
 }
