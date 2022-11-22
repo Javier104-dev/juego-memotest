@@ -74,7 +74,7 @@ function mostrarCuadro($cuadro){
 function finJuego(){
     if (document.querySelectorAll(".interior-cuadro").length === 0){ //siempre volver a usar document.querySelectorAll para saber el dato actual, no funciona con $cuadros
         $tablero.style.display = "none";
-        $victoria.querySelector("span").textContent = `Felicidades ganaste, en el turno ${turnos}`
+        $victoria.querySelector("span").textContent = `Feliciades ganaste en el intento N°${turnos}`
         $victoria.style.display = "block";
     }
 }
