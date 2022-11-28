@@ -4,7 +4,8 @@
   "description": "Juego memotest para r/argentina programa",
   "main": "index.html",
   "scripts": {
-    "test": "test"
+    "iniciar-cypress": "cypress open",
+    "iniciar-cypressrun": "cypress run"
   },
   "repository": {
     "type": "git",
