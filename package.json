@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Javier104-dev/juego-memotest#readme",
   "devDependencies": {
-    "cypress": "^11.2.0"
+    "cypress": "^12.3.0"
   }
 }
