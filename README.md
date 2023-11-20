@@ -30,6 +30,7 @@ Para jugar.
 
 ### Requerimientos:
 - IDE - Visual Studio Code v1.84.2
+- Git v2.43.0
 
 ### Preparando el ambiente:
 - Descargar o clonar el repositorio.
