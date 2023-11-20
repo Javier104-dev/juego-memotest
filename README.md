@@ -56,6 +56,15 @@ Para jugar.
 </p>
 <br>
 
+### Versión responsiva
+<p align='left'>
+  <img
+    alt='Versión responsiva'
+    src='https://github.com/Javier104-dev/juego-memotest/assets/105408069/65a45fd9-3bf6-4045-84c3-f223a40bf2a5'
+  >
+</p>
+<br>
+
 ---
 
 ### Autor:
