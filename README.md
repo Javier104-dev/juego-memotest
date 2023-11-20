@@ -37,7 +37,7 @@ Para jugar.
 - Abrir el archivo `index.html` que se encuentra en la raíz del proyecto, en el navegador.
 - Jugar.
 
-<h2 align='center'>Lo que Encontrarás</h2>
+<h2 align='center'>Lo que encontrarás</h2>
 
 ### Juego
 <p align='left'>
