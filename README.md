@@ -5,7 +5,7 @@ Recreación del clásico juego Memotest usando JavaScript, HTML y CSS. El juego 
 
 Toda la lógica del juego está creada en una sola hoja de JavaScript y está diseñada para comenzar con una tabla completamente diferente para cada juego. Cuando se completa, el tablero se limpia y aparece un mensaje de victoria mostrando la cantidad de intentos.
 
-### Especificaciones:
+### Especificaciones
 - Versión: 0.1.0
 - Diseño responsivo
 - Autor: Javier Anibal Villca
@@ -17,22 +17,22 @@ Para jugar.
 
 <h2 align='center'>Requisitos del proyecto</h2>
 
-### Requisitos:
+### Requisitos
 - El tablero debe estar dividido en 12 partes.
 - Usar JavaScript puro.
 
-### Opcionales:
+### Opcionales
 - Usar `Bootstrap` para el diseño de la tabla.
 - Usar imágenes en lugar de cuadros de colores.
 - Usar `http-server`.
 
 <h2 align='center'>Instrucciones de instalación</h2>
 
-### Requerimientos:
+### Requerimientos
 - IDE - Visual Studio Code v1.84.2
 - Git v2.43.0
 
-### Preparando el ambiente:
+### Preparando el ambiente
 - Descargar o clonar el repositorio.
 - Abrir el archivo `index.html` que se encuentra en la raíz del proyecto, en el navegador.
 - Jugar.
